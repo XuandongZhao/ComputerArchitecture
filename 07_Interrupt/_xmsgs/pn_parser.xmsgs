@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/CP0.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/CP0.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/CP0.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/CP0.v</arg>&quot; Line <arg fmt="%d" index="2">24</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/CP0.v&quot; line 24
+</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">mips_define.vh</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/alu.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/alu.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/alu.v</arg>&quot; Line <arg fmt="%d" index="2">15</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/alu.v&quot; line 15
+</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">mips_define.vh</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/btn_scan.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/btn_scan.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/btn_scan.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/btn_scan.v</arg>&quot; Line <arg fmt="%d" index="2">17</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/function.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/btn_scan.v&quot; line 17
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/clk_diff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/controller.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/controller.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/controller.v</arg>&quot; Line <arg fmt="%d" index="2">71</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/controller.v&quot; line 71
+</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">mips_define.vh</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/data_ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/data_ram.v</arg>&quot; Line <arg fmt="%d" index="2">14</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/datapath.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/datapath.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/datapath.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/datapath.v</arg>&quot; Line <arg fmt="%d" index="2">85</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/datapath.v&quot; line 85
+</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">mips_define.vh</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/display.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/display.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/display.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/display.v</arg>&quot; Line <arg fmt="%d" index="2">27</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/function.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/display.v&quot; line 27
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/inst_rom.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/mips.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/mips.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/mips_core.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/mips_core.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/mips_core.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/mips_top.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/mips_top.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/mips_top.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/my_clk_gen.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/parallel2serial.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/parallel2serial.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/parallel2serial.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/parallel2serial.v</arg>&quot; Line <arg fmt="%d" index="2">20</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/function.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/parallel2serial.v&quot; line 20
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/regfile.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/07_Interrupt/regfile.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;Y:/Desktop/Code/Arch/07_Interrupt/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/07_Interrupt/regfile.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/sim_mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/vga.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/07_Interrupt/vga_debug.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

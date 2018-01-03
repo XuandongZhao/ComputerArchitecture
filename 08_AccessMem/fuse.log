@@ -1,0 +1,40 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o Y:/Desktop/Code/Arch/07_AccessMem/sim_mips_isim_beh.exe -prj Y:/Desktop/Code/Arch/07_AccessMem/sim_mips_beh.prj work.sim_mips work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/regfile.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/CP0.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/alu.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/datapath.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/controller.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/mips_core.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/inst_rom.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/data_ram.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/mips.v" into library work
+Analyzing Verilog file "Y:/Desktop/Code/Arch/07_AccessMem/sim_mips.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "Y:/Desktop/Code/Arch/07_AccessMem/mips.v" Line 34: Port debug_data_cp0 is not connected to this instance
+WARNING:HDLCompiler:1016 - "Y:/Desktop/Code/Arch/07_AccessMem/mips_core.v" Line 77: Port is_store is not connected to this instance
+WARNING:HDLCompiler:189 - "Y:/Desktop/Code/Arch/07_AccessMem/mips.v" Line 60: Size mismatch in connection of port <cs>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "Y:/Desktop/Code/Arch/07_AccessMem/mips.v" Line 72: Size mismatch in connection of port <cs>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Compiling module controller
+Compiling module regfile
+Compiling module CP0
+Compiling module alu
+Compiling module datapath
+Compiling module mips_core
+Compiling module inst_rom
+Compiling module data_ram
+Compiling module mips
+Compiling module sim_mips
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\sim_mips_isim_beh.exe.sim\libPortability.dll".
+Compiled 11 Verilog Units
+Built simulation executable Y:/Desktop/Code/Arch/07_AccessMem/sim_mips_isim_beh.exe
+Fuse Memory Usage: 29944 KB
+Fuse CPU Usage: 811 ms

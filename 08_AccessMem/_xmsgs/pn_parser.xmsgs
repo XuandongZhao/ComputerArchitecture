@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/CP0.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/CP0.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/CP0.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/CP0.v</arg>&quot; Line <arg fmt="%d" index="2">24</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/CP0.v&quot; line 24
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/alu.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/alu.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/alu.v</arg>&quot; Line <arg fmt="%d" index="2">15</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/alu.v&quot; line 15
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/btn_scan.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/btn_scan.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/btn_scan.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/btn_scan.v</arg>&quot; Line <arg fmt="%d" index="2">17</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/function.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/btn_scan.v&quot; line 17
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/clk_diff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/controller.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/controller.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/controller.v</arg>&quot; Line <arg fmt="%d" index="2">74</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/controller.v&quot; line 74
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/data_ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/datapath.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/datapath.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/datapath.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/datapath.v</arg>&quot; Line <arg fmt="%d" index="2">85</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/mips_define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/datapath.v&quot; line 85
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/display.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/display.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/display.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/display.v</arg>&quot; Line <arg fmt="%d" index="2">27</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/function.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/display.v&quot; line 27
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/inst_rom.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/mips.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/mips.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/mips_core.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/mips_core.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/mips_core.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/mips_top.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/mips_top.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/mips_top.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/my_clk_gen.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/parallel2serial.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/parallel2serial.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/parallel2serial.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/parallel2serial.v</arg>&quot; Line <arg fmt="%d" index="2">20</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/function.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/parallel2serial.v&quot; line 20
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/regfile.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">Y:/Desktop/Code/Arch/08_AccessMem/regfile.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;//Mac/Home/Desktop/Code/Arch/08_AccessMem/define.vh&apos; in file &quot;Y:/Desktop/Code/Arch/08_AccessMem/regfile.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/sim_mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/vga.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;Y:/Desktop/Code/Arch/08_AccessMem/vga_debug.v&quot; into library work</arg>
+</msg>
+
+</messages>
+
